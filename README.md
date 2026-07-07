@@ -1,4 +1,4 @@
-# Lead Data Engineer Assessment Solution
+# Sales Analytics
 
 ## 1) What This Solution Does
 This project implements an end-to-end sales data pipeline using a medallion architecture pattern:

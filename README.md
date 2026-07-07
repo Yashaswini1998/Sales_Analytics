@@ -109,7 +109,7 @@ The notebook includes safeguards:
 ## 7) Testing Strategy
 A comprehensive pytest suite is provided:
 
-- tests/test_data_processing_notebook.py
+- test_data_processing_notebook.py
 
 Coverage includes:
 
